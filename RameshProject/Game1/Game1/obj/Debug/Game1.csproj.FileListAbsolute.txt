@@ -1,0 +1,34 @@
+c:\users\ramesh\desktop\Projects\Game1\Game1\bin\Debug\Game1.exe.config
+c:\users\ramesh\desktop\Projects\Game1\Game1\bin\Debug\Game1.exe
+c:\users\ramesh\desktop\Projects\Game1\Game1\bin\Debug\Game1.pdb
+c:\users\ramesh\desktop\Projects\Game1\Game1\obj\Debug\Game1.csprojResolveAssemblyReference.cache
+c:\users\ramesh\desktop\Projects\Game1\Game1\obj\Debug\Game1.Form1.resources
+c:\users\ramesh\desktop\Projects\Game1\Game1\obj\Debug\Game1.Properties.Resources.resources
+c:\users\ramesh\desktop\Projects\Game1\Game1\obj\Debug\Game1.csproj.GenerateResource.Cache
+c:\users\ramesh\desktop\Projects\Game1\Game1\obj\Debug\Game1.exe
+c:\users\ramesh\desktop\Projects\Game1\Game1\obj\Debug\Game1.pdb
+C:\Users\Ramesh\Desktop\Projects\Game1\Game1\obj\Debug\Game1.Form2.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Game1\Game1\bin\Debug\Game1.exe.config
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Game1\Game1\obj\Debug\Game1.exe
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Game1\Game1\obj\Debug\Game1.pdb
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Game1\Game1\bin\Debug\Game1.exe
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Game1\Game1\bin\Debug\Game1.pdb
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Game1\Game1\obj\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Game1\Game1\obj\Debug\Game1.Form1.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Game1\Game1\obj\Debug\Game1.Form2.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Game1\Game1\obj\Debug\Game1.Properties.Resources.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Game1\Game1\obj\Debug\Game1.csproj.GenerateResource.Cache
+C:\Users\Ramesh\Desktop\RameshProject\Game1\Game1\bin\Debug\Game1.exe.config
+C:\Users\Ramesh\Desktop\RameshProject\Game1\Game1\obj\Debug\Game1.exe
+C:\Users\Ramesh\Desktop\RameshProject\Game1\Game1\obj\Debug\Game1.pdb
+C:\Users\Ramesh\Desktop\RameshProject\Game1\Game1\bin\Debug\Game1.exe
+C:\Users\Ramesh\Desktop\RameshProject\Game1\Game1\bin\Debug\Game1.pdb
+C:\Users\Ramesh\Desktop\RameshProject\Game1\Game1\obj\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\Ramesh\Desktop\RameshProject\Game1\Game1\obj\Debug\Game1.Form1.resources
+C:\Users\Ramesh\Desktop\RameshProject\Game1\Game1\obj\Debug\Game1.Form2.resources
+C:\Users\Ramesh\Desktop\RameshProject\Game1\Game1\obj\Debug\Game1.Properties.Resources.resources
+C:\Users\Ramesh\Desktop\RameshProject\Game1\Game1\obj\Debug\Game1.csproj.GenerateResource.Cache
+C:\Users\Ramesh\Desktop\RameshProject\Game1\Game1\bin\Debug\Game1.exe.manifest
+C:\Users\Ramesh\Desktop\RameshProject\Game1\Game1\bin\Debug\Game1.application
+C:\Users\Ramesh\Desktop\RameshProject\Game1\Game1\obj\Debug\Game1.exe.manifest
+C:\Users\Ramesh\Desktop\RameshProject\Game1\Game1\obj\Debug\Game1.application

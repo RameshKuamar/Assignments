@@ -1,0 +1,41 @@
+c:\users\ramesh\desktop\Projects\Notepad2\Notepad2\bin\Debug\Notepad2.exe.config
+c:\users\ramesh\desktop\Projects\Notepad2\Notepad2\bin\Debug\Notepad2.exe
+c:\users\ramesh\desktop\Projects\Notepad2\Notepad2\bin\Debug\Notepad2.pdb
+c:\users\ramesh\desktop\Projects\Notepad2\Notepad2\obj\Debug\Notepad2.csprojResolveAssemblyReference.cache
+c:\users\ramesh\desktop\Projects\Notepad2\Notepad2\obj\Debug\Notepad2.Form1.resources
+c:\users\ramesh\desktop\Projects\Notepad2\Notepad2\obj\Debug\Notepad2.Properties.Resources.resources
+c:\users\ramesh\desktop\Projects\Notepad2\Notepad2\obj\Debug\Notepad2.csproj.GenerateResource.Cache
+c:\users\ramesh\desktop\Projects\Notepad2\Notepad2\obj\Debug\Notepad2.exe
+c:\users\ramesh\desktop\Projects\Notepad2\Notepad2\obj\Debug\Notepad2.pdb
+C:\Users\Ramesh\Desktop\Projects\Notepad2\Notepad2\obj\Debug\Notepad2.Form2.resources
+C:\Users\Ramesh\Desktop\Projects\Notepad2\Notepad2\obj\Debug\Notepad2.Form3.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Notepad2\Notepad2\bin\Debug\Notepad2.exe.config
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Notepad2\Notepad2\obj\Debug\Notepad2.exe
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Notepad2\Notepad2\obj\Debug\Notepad2.pdb
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Notepad2\Notepad2\bin\Debug\Notepad2.exe
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Notepad2\Notepad2\bin\Debug\Notepad2.pdb
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Notepad2\Notepad2\obj\Debug\Notepad2.csprojResolveAssemblyReference.cache
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Notepad2\Notepad2\obj\Debug\Notepad2.Form1.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Notepad2\Notepad2\obj\Debug\Notepad2.Form2.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Notepad2\Notepad2\obj\Debug\Notepad2.Form3.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Notepad2\Notepad2\obj\Debug\Notepad2.Properties.Resources.resources
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Notepad2\Notepad2\obj\Debug\Notepad2.csproj.GenerateResource.Cache
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Notepad2\Notepad2\bin\Debug\Notepad2.exe.manifest
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Notepad2\Notepad2\bin\Debug\Notepad2.application
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Notepad2\Notepad2\obj\Debug\Notepad2.exe.manifest
+C:\Users\Ramesh\Documents\Visual Studio 2012\Projects\Notepad2\Notepad2\obj\Debug\Notepad2.application
+C:\Users\Ramesh\Desktop\RameshProject\Notepad2\Notepad2\bin\Debug\Notepad2.exe.config
+C:\Users\Ramesh\Desktop\RameshProject\Notepad2\Notepad2\obj\Debug\Notepad2.exe
+C:\Users\Ramesh\Desktop\RameshProject\Notepad2\Notepad2\obj\Debug\Notepad2.pdb
+C:\Users\Ramesh\Desktop\RameshProject\Notepad2\Notepad2\bin\Debug\Notepad2.exe.manifest
+C:\Users\Ramesh\Desktop\RameshProject\Notepad2\Notepad2\bin\Debug\Notepad2.application
+C:\Users\Ramesh\Desktop\RameshProject\Notepad2\Notepad2\bin\Debug\Notepad2.exe
+C:\Users\Ramesh\Desktop\RameshProject\Notepad2\Notepad2\bin\Debug\Notepad2.pdb
+C:\Users\Ramesh\Desktop\RameshProject\Notepad2\Notepad2\obj\Debug\Notepad2.csprojResolveAssemblyReference.cache
+C:\Users\Ramesh\Desktop\RameshProject\Notepad2\Notepad2\obj\Debug\Notepad2.Form1.resources
+C:\Users\Ramesh\Desktop\RameshProject\Notepad2\Notepad2\obj\Debug\Notepad2.Form2.resources
+C:\Users\Ramesh\Desktop\RameshProject\Notepad2\Notepad2\obj\Debug\Notepad2.Form3.resources
+C:\Users\Ramesh\Desktop\RameshProject\Notepad2\Notepad2\obj\Debug\Notepad2.Properties.Resources.resources
+C:\Users\Ramesh\Desktop\RameshProject\Notepad2\Notepad2\obj\Debug\Notepad2.csproj.GenerateResource.Cache
+C:\Users\Ramesh\Desktop\RameshProject\Notepad2\Notepad2\obj\Debug\Notepad2.exe.manifest
+C:\Users\Ramesh\Desktop\RameshProject\Notepad2\Notepad2\obj\Debug\Notepad2.application
